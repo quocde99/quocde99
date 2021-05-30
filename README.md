@@ -1,6 +1,4 @@
-- 👋 Hi, I’m De Pham. I'm senior student in HCM Univesity Technology and Education(HCMUTE) and i'm fresher data engineer at TMA Solutions.
-- 🌱 I’m currently learning java,reactjs,azure and i want become a data engineer. 
-- 📫 How to reach me: quocde14101999qd@gmail.com
+- 👋 Hi, I’m De Pham.
 
 
 <!---
