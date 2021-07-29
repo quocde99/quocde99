@@ -1,5 +1,6 @@
 - 👋 Hi, I’m De Pham.
-Data Engineer
+Data Engineer.
+HCMC.
 
 <!---
 quocde99/quocde99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
