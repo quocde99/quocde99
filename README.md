@@ -1,5 +1,4 @@
 - 👋 Hi, I’m De Pham.
-- Data Engineer. 🎮
 - HCMC.🕶👓💎
 
 <!---
