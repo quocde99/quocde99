@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm De Pham</h1>
-<h3 align="center">I am junior Data Engineer from HCMC, VietNam.</h3>
+<h3 align="center">I am Data Engineer from HCMC, VietNam.</h3>
 
 - 🔭 I’m currently working on [VNG Corporation](https://vnggames.com/)
 
